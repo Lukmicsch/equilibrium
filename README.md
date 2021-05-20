@@ -3,7 +3,7 @@
 ![alt text](res/equilibrium-env.png)
 
 ### About
-This is a fun little side Project of mine.
+This is a fun little side project of mine.
 My first game and first encounter with Deep Learning in C++.
 The game utilizes the SDL2 framework and the training loop makes use of the Pytorch C++ frontend.
 The Reinforcement Learning Agent is the combination of a Double and Dueling Deep Q Network architecture. 
